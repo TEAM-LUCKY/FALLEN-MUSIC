@@ -18,9 +18,12 @@ def primary_markup(videoid, user_id):
         ],
         [
             InlineKeyboardButton(
-                text="✨ sᴜᴩᴩᴏʀᴛ ✨", url=config.SUPPORT_CHAT
+                text="🍻 sᴜᴩᴩᴏʀᴛ", url=config.SUPPORT_CHAT
             ),
-            InlineKeyboardButton(text="↻ ᴄʟᴏsᴇ ↺", callback_data=f"close"),
+            InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇꜱ 🍻", url=config.SUPPORT_CHANNEL),
+        ],
+        [
+            InlineKeyboardButton(text="↻ ᴄʟᴏsᴇ ᴍᴇɴᴜ ↺", callback_data=f"close"),
         ],
     ]
     return buttons
