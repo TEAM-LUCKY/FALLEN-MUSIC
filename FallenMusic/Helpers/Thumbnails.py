@@ -79,7 +79,7 @@ async def thumb_init(videoid):
             image2 = image1.convert("RGBA")
             background = image2.filter(filter=ImageFilter.BoxBlur(30))
             enhancer = ImageEnhance.Brightness(background)
-            background = enhancer.enhance(0.6)
+            background = enhancer.enhance(0.9)
             image2 = background
                                                                                             
             circle = Image.open("FallenMusic/Utilities/Circle.png")
@@ -120,8 +120,8 @@ async def thumb_init(videoid):
             font4 = ImageFont.truetype('FallenMusic/Utilities/font.ttf', 35)
 
             image4 = ImageDraw.Draw(image2)
-            image4.text((10, 10), "FALLEN MUSIC", fill="white", font = font1, align ="left") 
-            image4.text((670, 150), "FALLEN PLAYER", fill="white", font = font2, stroke_width=2, stroke_fill="white", align ="left") 
+            image4.text((10, 10), "LUCKY MUSICS", fill="white", font = font1, align ="left") 
+            image4.text((670, 150), "LUCKY OP", fill="white", font = font2, stroke_width=2, stroke_fill="white", align ="left") 
 
             # title
             title1 = truncate(title)
