@@ -1,5 +1,5 @@
 <h2 align="center">
-    「✨ ғᴀʟʟᴇɴ ✘ ᴍᴜsɪᴄ ✨」
+  「✨ ғᴀʟʟᴇɴ ✘ ᴍᴜsɪᴄ ✨」
 </h2>
 
 <p align="center">
