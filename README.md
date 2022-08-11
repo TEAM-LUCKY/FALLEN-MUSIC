@@ -1,5 +1,5 @@
 <h2 align="center">
-    ─────「✨ ғᴀʟʟᴇɴ ✘ ᴍᴜsɪᴄ ✨」─────
+    「✨ ғᴀʟʟᴇɴ ✘ ᴍᴜsɪᴄ ✨」
 </h2>
 
 <p align="center">
@@ -36,7 +36,7 @@
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/AnonymousR1025/Fallen-Music"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/mrluckyxd/Fallen-Music"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 <h2 align="center">
 ──────────
 </h2>
@@ -44,7 +44,7 @@
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ᴏᴋᴛᴇᴛᴏ 」─
 </h3>
-<p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/mrluckyxd/Fallen-Music"><img src="https://img.shields.io/badge/Deploy%20On%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200" height="35.45"/></a></p>
+<p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/mrluckyxd/Fallen-Music"><img src="https://img.shields.io/badge/Deploy%20On%20Okteto-pink?style=for-the-badge&logo=Okteto" width="200" height="35.45"/></a></p>
 
 <h2 align="center">
 ━━━━━━━━━━━━━━━━━━━━
@@ -55,10 +55,10 @@
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/DevilsHeavenMF"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/Lobe_ju"><img src="https://img.shields.io/badge/-Support%20Group-pink.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/FallenXBots"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/oye_golgappu"><img src="https://img.shields.io/badge/-Support%20Channel-pink.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 - **ᴛʜᴀɴᴋꜱ ᴛᴏ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/AnonymousR1025/Fallen-Music/graphs/contributors) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ ғᴀʟʟᴇɴ ✘ ᴍᴜsɪᴄ 🖤**
