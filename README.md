@@ -10,19 +10,19 @@
  ᴛʜᴇ ᴍᴏsᴛ ғᴀsᴛ ᴀɴᴅ ᴩᴏᴡᴇʀғᴜʟ ᴍᴜsɪᴄ ᴩʟᴀʏᴇʀ ʙᴏᴛ
 </h3>
 <h2 align="center">
-━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━
 </h2>
 
 <p align="center">
-<a href="https://github.com/mrluckyxd/Fallen-Music/stargazers"><img src="https://img.shields.io/github/stars/mrluckyxd/Fallen-Music?color=pink&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/mrluckyxd/Fallen-Music/network/members"> <img src="https://img.shields.io/github/forks/mrluckyxd/Fallen-Music?color=pink&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/mrluckyxd/Fallen-Music/stargazers"><img src="https://img.shields.io/github/stars/mrluckyxd/Fallen-Music?color=pink&logo=github&logoColor=pink&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/mrluckyxd/Fallen-Music/network/members"> <img src="https://img.shields.io/github/forks/mrluckyxd/Fallen-Music?color=pink&logo=github&logoColor=pink&style=for-the-badge" /></a>
 <a href="https://github.com/mrluckyxd/Fallen-Music/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/mrluckyxd/Fallen-Music/commits/mrluckyxd"> <img src="https://img.shields.io/github/last-commit/mrluckyxd/Fallen-Music?color=pink&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/mrluckyxd/Fallen-Music/commits/mrluckyxd"> <img src="https://img.shields.io/github/last-commit/mrluckyxd/Fallen-Music?color=pink&logo=github&logoColor=pink&style=for-the-badge" /></a>
 </p>
 
 <h2 align="center">
-━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━
 </h2>
 
 
@@ -44,7 +44,7 @@
 <p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/mrluckyxd/Fallen-Music"><img src="https://img.shields.io/badge/Deploy%20On%20Okteto-pink?style=for-the-badge&logo=Okteto" width="200" height="35.45"/></a></p>
 
 <h2 align="center">
-━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━
 </h2>
 
 <h3 align="center">
