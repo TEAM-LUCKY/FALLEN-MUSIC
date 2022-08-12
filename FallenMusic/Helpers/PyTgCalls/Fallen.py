@@ -17,7 +17,6 @@ from FallenMusic.Helpers.PyTgCalls.Downloader import download
 from FallenMusic.Helpers.Database import remove_active_chat
 from FallenMusic.Helpers.Inline import primary_markup
 from FallenMusic.Helpers.Changers import time_to_seconds
-from FallenMusic.Helpers.Thumbnails import thumb_init
 from FallenMusic.Helpers.Ytinfo import get_yt_info_id
 
 pytgcalls = PyTgCalls(Ass)
